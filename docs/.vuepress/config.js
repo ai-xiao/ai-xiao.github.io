@@ -12,6 +12,7 @@ module.exports = {
             { text: '主页', link: '/' },
             { text: '博文',
               items: [
+                { text: 'RuoYi-Cloud-Nacos', link: '/RuoYi-Cloud-Nacos/' },
                 { text: 'Android', link: '/android/' },
                 { text: 'ios', link: '/ios/' },
                 { text: 'Web', link: '/web/' }
@@ -21,6 +22,13 @@ module.exports = {
             { text: 'Github', link: 'https://github.com/ai-xiao' },
         ],
         sidebar: {
+            '/RuoYi-Cloud-Nacos/': [
+                            "",
+                            "1.介绍",
+                            "2.快速了解",
+                            "3.环境部署",
+                            "4.项目介绍",
+                        ],
             '/android/': [
                         "",
                         "android1",
