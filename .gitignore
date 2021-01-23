@@ -5,3 +5,4 @@
 /.idea/codeStyles/
 /.idea/codeStyles/
 /docs/.vuepress/dist/
+.DS_Store
