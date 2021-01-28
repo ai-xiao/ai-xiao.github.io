@@ -13,6 +13,7 @@ module.exports = {
             { text: '博文',
               items: [
                 { text: 'RuoYi-Cloud-Nacos', link: '/RuoYi-Cloud-Nacos/' },
+                { text: 'JD', link: '/jd/' },
                 { text: 'Android', link: '/android/' },
                 { text: 'ios', link: '/ios/' },
                 { text: 'Web', link: '/web/' }
@@ -29,6 +30,10 @@ module.exports = {
                             "3.环境部署",
                             "4.项目介绍",
                         ],
+                '/jd/': [
+                        "",
+                        "jd",
+                         ],
             '/android/': [
                         "",
                         "android1",
