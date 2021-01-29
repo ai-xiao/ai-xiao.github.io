@@ -14,9 +14,6 @@ module.exports = {
               items: [
                 { text: 'RuoYi', link: '/RuoYi/' },
                 { text: 'JD', link: '/jd/' },
-                { text: 'Android', link: '/android/' },
-                { text: 'ios', link: '/ios/' },
-                { text: 'Web', link: '/web/' }
               ]
             },
             { text: '关于', link: '/about/' },
