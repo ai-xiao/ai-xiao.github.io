@@ -12,7 +12,7 @@ module.exports = {
             { text: '主页', link: '/' },
             { text: '博文',
               items: [
-                { text: 'RuoYi-Cloud-Nacos', link: '/RuoYi-Cloud-Nacos/' },
+                { text: 'RuoYi', link: '/RuoYi/' },
                 { text: 'JD', link: '/jd/' },
                 { text: 'Android', link: '/android/' },
                 { text: 'ios', link: '/ios/' },
@@ -23,7 +23,7 @@ module.exports = {
             { text: 'Github', link: 'https://github.com/ai-xiao' },
         ],
         sidebar: {
-            '/RuoYi-Cloud-Nacos/': [
+            '/RuoYi/': [
                             "",
                             "1.介绍",
                             "2.快速了解",
@@ -34,18 +34,6 @@ module.exports = {
                         "",
                         "jd",
                          ],
-            '/android/': [
-                        "",
-                        "android1",
-                         ],
-                "/ios/":[
-                        "",
-                        "ios1",
-                        ],
-                "/web/":[
-                        "",
-                        "web1",
-                        ],
             },
         sidebarDepth: 2,
         lastUpdated: 'Last Updated',
