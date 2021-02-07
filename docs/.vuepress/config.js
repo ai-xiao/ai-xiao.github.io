@@ -14,6 +14,7 @@ module.exports = {
               items: [
                 { text: 'RuoYi', link: '/RuoYi/' },
                 { text: 'JD', link: '/jd/' },
+                { text: 'Common', link: '/common/' },
               ]
             },
             { text: '关于', link: '/about/' },
@@ -31,6 +32,10 @@ module.exports = {
                         "",
                         "jd",
                          ],
+                '/common/': [
+                        "",
+                        "books",
+                        ],
             },
         sidebarDepth: 2,
         lastUpdated: 'Last Updated',
