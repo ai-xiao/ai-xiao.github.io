@@ -31,3 +31,9 @@ python /Users/not_every/AllProjects/chao/jd_python/index_python/control.py
 python /Users/not_every/AllProjects/chao/jd_python/index_python/controljob.py  
 ```
 #### controltext文件(将要执行的任务列表)
+
+#### 多次任务列表
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_jdfactory now
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_feedPets now
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_steal now
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed now
