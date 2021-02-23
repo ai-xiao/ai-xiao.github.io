@@ -86,4 +86,5 @@
 | 82. | 京东秒秒币： | [jd_ms.js](./jd_scripts/scripts/jd_ms.js) | 京东app-京东秒杀-签到领红包 | 长期 | 一次 |
 | 83. | 女装盲盒： | [jd_nzmh.js](./jd_scripts/scripts/jd_nzmh.js) | 京东app-女装馆-赢京豆 | 2021年2月25日 | 一次 |
 | 84. | 删除优惠券： | [jd_delCoupon.js](./jd_scripts/scripts/jd_delCoupon.js) | 京东APP我的-优惠券 | 工具  | 一次 |
-
+| 85. | 京东天天加速： | [jd_speed_sign.js](./jd_scripts/scripts/jd_speed_sign.js) | 暂无 | 长期  | 3小时运行一次 |
+| 86. | 京东极速版红包： | [js_redpacket.js](./jd_scripts/scripts/js_redpacket.js) | 京东极速版app-领红包 | 2021年3月3日 | 一次 |

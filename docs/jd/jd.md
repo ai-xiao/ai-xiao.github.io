@@ -50,4 +50,5 @@ bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_jdfactory no
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_feedPets now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_steal now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed now
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed_sign now
 ```
