@@ -32,8 +32,22 @@ python /Users/not_every/AllProjects/chao/jd_python/index_python/controljob.py
 ```
 #### controltext文件(将要执行的任务列表)
 
+#### [删除优惠券](./jd_scripts/scripts/jd_delCoupon.js)
+```
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_delCoupon now
+```
+#### [注销京东会员卡](./jd_scripts/scripts/jd_unbind.js)
+```
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unbind now
+```
+#### [取关京东店铺和商品](./jd_scripts/scripts/jd_unsubscribe.js)
+```
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unsubscribe now
+```
 #### 多次任务列表
+```
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_jdfactory now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_feedPets now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_steal now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed now
+```

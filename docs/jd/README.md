@@ -1,3 +1,5 @@
+# README
+
 | 序号 | 名称 | 文件 | 活动入口 | 活动时间 | 每日次数 |
 | :-: | - | - | - | - | - |
 | 1. | 京豆变动通知： | [jd_bean_change.js](./jd_scripts/scripts/jd_bean_change.js) | 暂无 | 长期 | 一次 |
@@ -85,18 +87,3 @@
 | 83. | 女装盲盒： | [jd_nzmh.js](./jd_scripts/scripts/jd_nzmh.js) | 京东app-女装馆-赢京豆 | 2021年2月25日 | 一次 |
 | 84. | 删除优惠券： | [jd_delCoupon.js](./jd_scripts/scripts/jd_delCoupon.js) | 京东APP我的-优惠券 | 工具  | 一次 |
 
-
-#### [删除优惠券](./jd_scripts/scripts/jd_delCoupon.js)
-```
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_delCoupon now
-```
-
-#### [注销京东会员卡](./jd_scripts/scripts/jd_unbind.js)
-```
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unbind now
-```
-
-#### 31 58 [取关京东店铺和商品](./jd_scripts/scripts/jd_unsubscribe.js)
-```
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unsubscribe now
-```
