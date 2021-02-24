@@ -30,6 +30,9 @@ python /Users/not_every/AllProjects/chao/jd_python/index_python/control.py
 ```
 python /Users/not_every/AllProjects/chao/jd_python/index_python/controljob.py  
 ```
+```
+python /Users/not_every/AllProjects/chao/jd_python/index_python/controltimes.py  
+```
 #### controltext文件(将要执行的任务列表)
 
 #### [删除优惠券](./jd_scripts/scripts/jd_delCoupon.js)
