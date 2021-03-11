@@ -47,11 +47,4 @@ bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unbind now
 ```
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unsubscribe now
 ```
-#### 多次任务列表
-```
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_jdfactory now
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_feedPets now
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_joy_steal now
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed now
-bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_speed_sign now
-```
+

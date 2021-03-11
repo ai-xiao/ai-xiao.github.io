@@ -88,3 +88,6 @@
 | 84. | 删除优惠券： | [jd_delCoupon.js](./jd_scripts/scripts/jd_delCoupon.js) | 京东APP我的-优惠券 | 工具  | 一次 |
 | 85. | 京东天天加速： | [jd_speed_sign.js](./jd_scripts/scripts/jd_speed_sign.js) | 暂无 | 长期  | 3小时运行一次 |
 | 86. | 京东极速版红包： | [js_redpacket.js](./jd_scripts/scripts/js_redpacket.js) | 京东极速版app-领红包 | 2021年3月3日 | 一次 |
+| 87. | 京喜财富岛： | [jd_cfd.js](./jd_scripts/scripts/jd_cfd.js) | 京喜APP-我的-京喜财富岛 | 长期 | 一次 |
+| 88. | 京小兑： | [jd_jxd.js](./jd_scripts/scripts/jd_jxd.js) | 微信搜索小程序-京小兑 | 长期 | 一次 |
+| 89. | 京东极速版红包： | [jd_speed_redpocke.js](./jd_scripts/scripts/jd_speed_redpocke.js) | 京东极速版-领红包 | 2021年3月25日 | 一次 |
