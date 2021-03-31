@@ -91,5 +91,5 @@
 | 87. | 京喜财富岛： | [jd_cfd.js](./jd_scripts/scripts/jd_cfd.js) | 京喜APP-我的-京喜财富岛 | 长期 | 一次 |
 | 88. | 京小兑： | [jd_jxd.js](./jd_scripts/scripts/jd_jxd.js) | 微信搜索小程序-京小兑 | 长期 | 一次 |
 | 89. | 京东极速版红包： | [jd_speed_redpocke.js](./jd_scripts/scripts/jd_speed_redpocke.js) | 京东极速版-领红包 | 2021年3月25日 | 一次 |
-| 90. | 城城领现金： | [jd_city.js](./jd_scripts/scripts/jd_city.js) | 暂无 | 2021年3月24日 | 一次 |
+| 90. | 城城领现金： | [jd_crazy_joy_bonus.js](./jd_scripts/scripts/jd_crazy_joy_bonus.js) | 暂无 | 2021年3月24日 | 一次 |
 | 91. | 5G超级盲盒： | [jd_mohe.js](./jd_scripts/scripts/jd_mohe.js) | 暂无 | 2021年4月30日 | 一次 |
