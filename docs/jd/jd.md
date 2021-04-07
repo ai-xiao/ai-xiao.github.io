@@ -48,3 +48,12 @@ bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unbind now
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/jd.sh jd_unsubscribe now
 ```
 
+#### 更新git项目
+```
+cd /Users/not_every/AllProjects/chao/JD-scripts
+本地与服务器端同步
+git pull
+
+复制更新的脚本到指定文件夹下
+python /Users/not_every/AllProjects/chao/jd_python/tools_python/update_script.py  
+```

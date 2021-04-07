@@ -93,3 +93,4 @@
 | 89. | 京东极速版红包： | [jd_speed_redpocke.js](./jd_scripts/scripts/jd_speed_redpocke.js) | 京东极速版-领红包 | 2021年3月25日 | 一次 |
 | 90. | 城城领现金： | [jd_crazy_joy_bonus.js](./jd_scripts/scripts/jd_crazy_joy_bonus.js) | 暂无 | 2021年3月24日 | 一次 |
 | 91. | 5G超级盲盒： | [jd_mohe.js](./jd_scripts/scripts/jd_mohe.js) | 暂无 | 2021年4月30日 | 一次 |
+| 92. | 京东手机狂欢城活动： | [jd_carnivalcity.js](./jd_scripts/scripts/jd_carnivalcity.js) | 暂无 | 2021年4月30日 | 一次 |
