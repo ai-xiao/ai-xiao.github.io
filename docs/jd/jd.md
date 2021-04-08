@@ -19,6 +19,12 @@ bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/git_pull.sh
 ```
 bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/export_sharecodes.sh
 ```
+#### 删除日志
+```
+bash /Users/not_every/AllProjects/chao/jd_nodejs/sh_nodejs/rm_log.sh
+```
+
+
 #### 然后修改
 ```
 /Users/not_every/AllProjects/chao/jd_nodejs/config/config.sh
