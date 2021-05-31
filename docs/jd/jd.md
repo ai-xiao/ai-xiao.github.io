@@ -63,3 +63,8 @@ git pull
 复制更新的脚本到指定文件夹下
 python /Users/not_every/AllProjects/chao/jd_python/tools_python/update_script.py  
 ```
+
+#### [启动控制面板](/Users/not_every/AllProjects/chao/jd_nodejs/panel/server.js)
+```
+node "/Users/not_every/AllProjects/chao/jd_nodejs/panel/server.js"
+```
